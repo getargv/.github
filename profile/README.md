@@ -21,7 +21,7 @@ There are three types of repos in this organization:
 - [getargv/getargv-sys](https://github.com/getargv/getargv-sys)
 
 ### private repos requiring sponsorship
-- [getargv/getargv](https://github.com/getargv/getargv]
+- [getargv/getargv](https://github.com/getargv/getargv)
 - [getargv/homebrew-tap](https://github.com/getargv/homebrew-tap)
 
 ## Public vs private repos
