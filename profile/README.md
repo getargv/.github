@@ -24,6 +24,6 @@ There are three types of repos in this organization:
 - [getargv/getargv](https://github.com/getargv/getargv)
 - [getargv/homebrew-tap](https://github.com/getargv/homebrew-tap)
 
-## Public vs private repos
+## Public vs Private Repos
 
-All repos that allow you to install the library that provides the actual functionality are private, the rest are public. In order to get access to the `getargv` cli tool or `libgetargv` for use in your own projects (via language bindings or directly using the c library) sign up to sponsor me at the appropriate tier for your use.
+All repos that allow you to install the library that provides the actual functionality are private, the rest are public. In order to get access to the `getargv` cli tool or `libgetargv` for use in your own projects (via language bindings or directly using the C library) sign up to sponsor me at the appropriate tier for your use.
