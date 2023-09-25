@@ -1,5 +1,3 @@
-# Getargv organization
-
 ## Purpose
 
 This organization exists to collect all of the code and resources about getargv and libgetargv, run CI, and to manage sponsorships.
@@ -8,9 +6,23 @@ This organization exists to collect all of the code and resources about getargv 
 
 There are three types of repos in this organization:
 
- - websites/informational eg: (getargv/website)[https://github.com/getargv/website], (getargv/.github)[https://github.com/getargv/.github]
- - language bindings eg: (getargv/getargv.rs)[https://github.com/getargv/getargv.rs], (getargv/getargv.rb)[https://github.com/getargv/getargv.rb], and others
- - private repos requiring sponsorship: (getargv/getargv)[https://github.com/getargv/getargv] and (getargv/homebrew-tap)[https://github.com/getargv/homebrew-tap]
+### websites/informational
+- [getargv/website](https://github.com/getargv/website)
+- [getargv/.github](https://github.com/getargv/.github)
+
+### language bindings
+- [getargv/getargv.rs](https://github.com/getargv/getargv.rs)
+- [getargv/getargv.rb](https://github.com/getargv/getargv.rb)
+- [getargv/getargv.cs](https://github.com/getargv/getargv.cs)
+- [getargv/getargv.js](https://github.com/getargv/getargv.js)
+- [getargv/getargv.java](https://github.com/getargv/getargv.java)
+- [getargv/getargv.swift](https://github.com/getargv/getargv.swift)
+- [getargv/getargv.py](https://github.com/getargv/getargv.py)
+- [getargv/getargv-sys](https://github.com/getargv/getargv-sys)
+
+### private repos requiring sponsorship
+- [getargv/getargv](https://github.com/getargv/getargv]
+- [getargv/homebrew-tap](https://github.com/getargv/homebrew-tap)
 
 ## Public vs private repos
 
