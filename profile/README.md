@@ -11,14 +11,15 @@ There are three types of repos in this organization:
 - [getargv/.github](https://github.com/getargv/.github)
 
 ### language bindings
-- [getargv/getargv.rs](https://github.com/getargv/getargv.rs)
-- [getargv/getargv.rb](https://github.com/getargv/getargv.rb)
-- [getargv/getargv.cs](https://github.com/getargv/getargv.cs)
-- [getargv/getargv.js](https://github.com/getargv/getargv.js)
-- [getargv/getargv.java](https://github.com/getargv/getargv.java)
-- [getargv/getargv.swift](https://github.com/getargv/getargv.swift)
-- [getargv/getargv.py](https://github.com/getargv/getargv.py)
-- [getargv/getargv-sys](https://github.com/getargv/getargv-sys)
+- [getargv/getargv.rs](https://github.com/getargv/getargv.rs) (safe-Rust)
+- [getargv/getargv.rb](https://github.com/getargv/getargv.rb) (Ruby)
+- [getargv/getargv.cpp](https://github.com/getargv/getargv.cpp) (C++)
+- [getargv/getargv.cs](https://github.com/getargv/getargv.cs) (C#)
+- [getargv/getargv.js](https://github.com/getargv/getargv.js) (Javascript)
+- [getargv/getargv.java](https://github.com/getargv/getargv.java) (Java)
+- [getargv/getargv.swift](https://github.com/getargv/getargv.swift) (Swift)
+- [getargv/getargv.py](https://github.com/getargv/getargv.py) (Python)
+- [getargv/getargv-sys](https://github.com/getargv/getargv-sys) (unsafe-rust)
 
 ### private repos requiring sponsorship
 - [getargv/getargv](https://github.com/getargv/getargv)
