@@ -18,8 +18,9 @@ There are three types of repos in this organization:
 - [getargv/getargv.js](https://github.com/getargv/getargv.js) (Javascript)
 - [getargv/getargv.java](https://github.com/getargv/getargv.java) (Java)
 - [getargv/getargv.swift](https://github.com/getargv/getargv.swift) (Swift)
+- [getargv/getargv.go](https://github.com/getargv/getargv.go) (Go)
 - [getargv/getargv.py](https://github.com/getargv/getargv.py) (Python)
-- [getargv/getargv-sys](https://github.com/getargv/getargv-sys) (unsafe-rust)
+- [getargv/getargv-sys](https://github.com/getargv/getargv-sys) (unsafe-Rust)
 
 ### private repos requiring sponsorship
 - [getargv/getargv](https://github.com/getargv/getargv)
