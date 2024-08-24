@@ -9,6 +9,7 @@ There are three types of repos in this organization:
 ### websites/informational
 - [getargv/website](https://github.com/getargv/website)
 - [getargv/.github](https://github.com/getargv/.github)
+- [getargv/adv_cmds](https://github.com/getargv/adv_cmds)
 
 ### language bindings
 - [getargv/getargv.rs](https://github.com/getargv/getargv.rs) (safe-Rust)
